@@ -1,4 +1,4 @@
-# training: Introduction to Spring Boot, Hiberante, Rest Security and AOP
+# training: Introduction to Spring Boot, Hiberante, JPA, Rest Security and AOP
 
 
 Course Link - https://www.udemy.com/course/spring-hibernate-tutorial/
